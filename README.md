@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hello+World%EF%BC%81" alt="Typing SVG" /></a>
 </div>
 
-![image](https://user-images.githubusercontent.com/130368992/234885340-a4eff01f-4282-40a2-afe8-7f64203eca89.png)
+My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
 
 <!-- ### Hi there 👋 -->
 
