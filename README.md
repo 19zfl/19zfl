@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <a href="https://github.com/19zfl/OrderOnlineSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=19zfl&repo=java-project-tools&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=19zfl&repo=java-project-tools" /></a>
 </div>
 
 <!-- ### Hi there 👋 -->
