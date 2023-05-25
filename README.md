@@ -1,6 +1,12 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hello+World%EF%BC%81" alt="Typing SVG" /></a>
 </div>
+<div align="center">
+<a href="https://github.com/19zfl/OrderOnlineSystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=19zfl&repo=java-project-tools&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/19zfl/AndroidContacts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=19zfl&repo=quartz-demo&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>
 
 <!-- ### Hi there 👋 -->
 
